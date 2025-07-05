@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋, I'm Akash Tharumina</h1>
+<h1 align="center">Hi there 👋, I'm Akash </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
@@ -9,7 +9,7 @@
 
 🎓 **Student at SLIIT University Malabe**  
 🕒 **Academic Timeline**: 4 years total, currently at 1 year and 1 semester  
-📚 **Learning Focus**: Java and C++
+📚 **Learning Focus**: Java and Git
 
 ---
 
