@@ -1,57 +1,51 @@
 
+# 👋 Hello, I'm IT25101613
 
-<h1 align="center">Hi 👋, I'm IT25101613</h1>
-<h3 align="center">🎓 Beginner coder studying at SLIIT University Malabe</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
-</p>
+🎓 I'm a student at **SLIIT University Malabe**, currently in my 1st year, 1st semester of a 4-year academic journey.  
+💻 I'm learning **Java** and **C++** to build a strong foundation in programming.
 
 ---
 
-### 🧠 Skills I'm Learning
+## 📚 Skills I'm Learning
 - Java
 - C++
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Skills GIF">
-</p>
+---
+
+## 📅 Academic Timeline
+- 🎓 4-year degree program
+- 📍 Currently: Year 1, Semester 1
 
 ---
 
-### 📅 Learning Timeline
-- 🎓 4-year journey
-- 📍 Currently at: 1 year and 1 semester
+## 📬 Contact Me
+- 📧 [atharumina@gmail.com](mailto:atharumina@gmail.com)
+- 📧 [it25101613@my.sliit.lk](mailto:it25101613@my.sliit.lk)
+- 💬 [@EchoOfTheUnknown](https://t.me/EchoOfTheUnknown) on Telegram
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: [atharumina@gmail.com](mailto:atharumina@gmail.com)
-- 📧 University Email: [it25101613@my.sliit.lk](mailto:it25101613@my.sliit.lk)
-- 💬 Telegram: [@EchoOfTheUnknown](https://t.me/EchoOfTheUnknown)
+## ❤️ Favorites
+- 🖥️ Programming Languages: Java, C++
+- ⚙️ Tools & Environments: Visual Studio Code, GitHub
+- 📚 Learning Resources: GeeksforGeeks, W3Schools, YouTube tutorials
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT25101613&show_icons=true&theme=nord" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT25101613&theme=nord" alt="GitHub Streak">
-</p>
+## 💡 Daily Quote
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
 ---
 
-### ✨ Fun & Motivation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="Motivation GIF">
-</p>
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT25101613&show_icons=true&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT25101613&layout=compact&theme=nord)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT25101613&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=IT25101613&color=blue)
+
+---
+
+> "Don't compare yourself with anyone in this world. If you do so, you are insulting yourself." — *Bill Gates*
