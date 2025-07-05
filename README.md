@@ -7,7 +7,7 @@
 
 🎓 **Student at SLIIT University Malabe**  
 🕒 **Academic Timeline**: 4 years total, currently at 1 year and 1 semester  
-📚 **Learning Focus**: Java,Git,Powershell
+📚 **Learning Focus**: Java
 
 ---
 
