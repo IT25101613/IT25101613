@@ -1,51 +1,65 @@
 
-# 👋 Hello, I'm IT25101613
 
-🎓 I'm a student at **SLIIT University Malabe**, currently in my 1st year, 1st semester of a 4-year academic journey.  
-💻 I'm learning **Java** and **C++** to build a strong foundation in programming.
+<h1 align="center">Hi there 👋, I'm IT25101613</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
 
 ---
 
-## 📚 Skills I'm Learning
+🎓 **Student at SLIIT University Malabe**  
+🕒 **Academic Timeline**: 4 years total, currently at 1 year and 1 semester  
+📚 **Learning Focus**: Java and C++
+
+---
+
+## 🧠 Skills I'm Learning
 - Java
 - C++
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Skills GIF">
+</p>
+
 ---
 
-## 📅 Academic Timeline
-- 🎓 4-year degree program
-- 📍 Currently: Year 1, Semester 1
+## 💼 Completed Assignments
+- 📘 Java Basics Project  
+- 🧮 C++ Functions Assignment  
+- 🗂️ GitHub Portfolio Setup
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Assignments GIF">
+</p>
 
 ---
 
 ## 📬 Contact Me
-- 📧 [atharumina@gmail.com](mailto:atharumina@gmail.com)
-- 📧 [it25101613@my.sliit.lk](mailto:it25101613@my.sliit.lk)
-- 💬 [@EchoOfTheUnknown](https://t.me/EchoOfTheUnknown) on Telegram
+- 📧 [atharumina@gmail.com](mailto:atharumina@gmail.com)  
+- 📧 [it25101613@my.sliit.lk](mailto:it25101613@my.sliit.lk)  
+- 💬 [@EchoOfTheUnknown](https://t.me/EchoOfTheUnknown)
 
 ---
 
-## ❤️ Favorites
+## 🌟 Favorites
 - 🖥️ Programming Languages: Java, C++
 - ⚙️ Tools & Environments: Visual Studio Code, GitHub
 - 📚 Learning Resources: GeeksforGeeks, W3Schools, YouTube tutorials
 
 ---
 
-## 💡 Daily Quote
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+## 💬 Daily Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+> "Don't compare yourself with anyone in this world. If you do so, you are insulting yourself." — Bill Gates
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT25101613&show_icons=true&theme=nord)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT25101613&layout=compact&theme=nord)
+![IT25101613's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT25101613&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT25101613&layout=compact&theme=nord)
 
----
-
-## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=IT25101613&color=blue)
 
 ---
 
-> "Don't compare yourself with anyone in this world. If you do so, you are insulting yourself." — *Bill Gates*
