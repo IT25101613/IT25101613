@@ -15,7 +15,7 @@
 
 ## 🧠 Skills I'm Learning
 - Java
-- C++
+- Git
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Skills GIF">
@@ -25,8 +25,6 @@
 
 ## 💼 Completed Assignments
 - 📘 Java Basics Project  
-- 🧮 C++ Functions Assignment  
-- 🗂️ GitHub Portfolio Setup
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Assignments GIF">
@@ -42,7 +40,7 @@
 ---
 
 ## 🌟 Favorites
-- 🖥️ Programming Languages: Java, C++
+- 🖥️ Programming Languages: Java
 - ⚙️ Tools & Environments: Visual Studio Code, GitHub
 - 📚 Learning Resources: GeeksforGeeks, W3Schools, YouTube tutorials
 
