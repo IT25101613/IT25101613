@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats (Nordic Theme)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT25101613&show_icons=true&theme=nord)
 
