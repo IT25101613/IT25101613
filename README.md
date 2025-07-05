@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm IT25101613
+# 👋 Hello, I'm Akash Tharumina 
 
 🎓 I'm currently studying at **SLIIT University Malabe**  
 💻 A beginner focused on learning to code  
