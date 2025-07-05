@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there 👋, I'm Akash </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
@@ -16,6 +14,7 @@
 ## 🧠 Skills I'm Learning
 - Java
 - Git
+- Powershell
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Skills GIF">
@@ -40,7 +39,7 @@
 ---
 
 ## 🌟 Favorites
-- 🖥️ Programming Languages: Java
+- 🖥️ Programming Languages: Java,Powershell
 - ⚙️ Tools & Environments: Visual Studio Code, GitHub
 - 📚 Learning Resources: GeeksforGeeks, W3Schools, YouTube tutorials
 
