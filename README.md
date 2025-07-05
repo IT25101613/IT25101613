@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying at **SLIIT University Malabe**  
 💻 A beginner focused on learning to code  
-📚 Currently exploring **Java** and **C++**
+📚 Currently exploring **Java** and **Git**
 
 ---
 
@@ -17,7 +17,7 @@
 ## 🚀 Skills I'm Learning
 
 - Java
-- C++
+- Git
 
 ---
 
@@ -36,4 +36,4 @@
 ---
 
 > 🌟 “Every expert was once a beginner.”  
-> Keep learning, keep growing!
+> 👻  Keep learning, keep growing!
