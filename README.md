@@ -6,8 +6,7 @@
 ---
 
 🎓 **Student at SLIIT University Malabe**  
-🕒 **Academic Timeline**: 
-4 years total, currently at 1 year and 1 semester  
+🕒 **Academic Timeline**: 4 years total, currently at 1 year and 1 semester  
 📚 **Learning Focus**: Java and Git
 
 ---
@@ -40,12 +39,9 @@
 ---
 
 ## 🌟 Favorites
-- 🖥️ Programming Languages:
-Java,Powershell
-- ⚙️ Tools & Environments:
-Visual Studio Code, GitHub
-- 📚 Learning Resources:
-GeeksforGeeks, W3Schools, YouTube tutorials
+- 🖥️ Programming Languages: Java,Powershell
+- ⚙️ Tools & Environments: Visual Studio Code, GitHub
+- 📚 Learning Resources: GeeksforGeeks, W3Schools, YouTube tutorials
 
 ---
 
